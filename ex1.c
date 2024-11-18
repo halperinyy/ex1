@@ -67,7 +67,7 @@ z2 = x2 ^ t2;
 
 
 
-int x4,y4,t4,z4,h3,h5,h7,h11;
+int x4,y4,t4,h3,h5,h7,h11;
   printf("Please enter the first number\n");
   scanf("%o", &x4);
   printf("Please enter the seconed number\n");
